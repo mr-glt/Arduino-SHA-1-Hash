@@ -6,6 +6,12 @@
 		"type": "git",
 		"url": "https://github.com/mr-glt/Arduino-SHA-1-Hash.git"
 	},
+	"authors": {
+		"name": "Charlie Wade",
+		"email": "colson72098@gmail.com",
+		"url": "http://www.syzygylabs.xyz",
+		"maintainer": true
+	},
 	"version": "1.1.0",
 	"frameworks": "arduino",
 	"platforms": "*"
