@@ -1,0 +1,13 @@
+{
+  "name": "SHA-1 Hash",
+  "keywords": "SHA-1, hash, cryptography, security",
+  "description": "Arduino Library for to generate SHA-1 hashes for data",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/mr-glt/Arduino-SHA-1-Hash.git"
+  },
+  "version": "1.1.0",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
